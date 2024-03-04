@@ -10,4 +10,6 @@ This is a simple web project that includes login and registration forms implemen
 git clone https://github.com/your-account/website-with-login-and-register.git
 
 Technologies
-![pobierz](https://github.com/Izabela2001/Website_login_and_Register/assets/126763078/e323948a-4a95-4801-93d2-8a6566cbf186)
+* HTML
+* CSS
+* JavaScript
