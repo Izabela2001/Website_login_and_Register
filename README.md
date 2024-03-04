@@ -9,7 +9,7 @@ This is a simple web project that includes login and registration forms implemen
 ```bash
 git clone https://github.com/your-account/website-with-login-and-register.git
 
-Technologies
+### Technologies
 * HTML
 * CSS
 * JavaScript
